@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">rc02</string>
+    <string name="_9_9">9.9</string>
+    <string name="s1"></string>
+    <string name="s2"></string>
+    <string name="s3"></string>
+    <string name="s4"></string>
+    <string name="s5"></string>
+    <string name="s6"></string>
+    <string name="s7"></string>
+    <string name="s8"></string>
+    <string name="s9"></string>
+    <string name="s10"></string>
+    <string-array name="data_nama">
+        <item>Magia Record: Mahou Shoujo Madoka☆Magica Gaiden</item>
+        <item>Kyokou Suiri</item>
+        <item>Infinite Dendrogram</item>
+        <item>Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu</item>
+        <item>Majutsushi Orphen Hagure Tabi</item>
+        <item>Somali to Mori no Kamisama</item>
+        <item>Darwin’s Game</item>
+        <item>Rifle Is Beautiful </item>
+        <item>Azur Lane</item>
+        <item>Black Clover</item>
+    </string-array>
+    <string-array name="data_sinopsis">
+        <item>Side Story dari Serial Mahou Shoujo Madoka★Magica Anime yang diadaptasi dari game mobile dengan judul yang sama.</item>
+        <item>Anime Kyokou Suiri ini bercerita tentang: Pada usia 11 tahun, Kotoko Iwanaga diculik oleh siluman dan mendapatkan kemampuan untuk menjadi perantara antara roh dan dunia manusia. Akan tetapi, kemampuannya itu harus dibayar dengan mata kanan dan kaki kirinya. Sekarang, enam tahun setelah kejadian itu, siluman yang mengalami masalah datang berkonsultasi padanya. Suatu hari Kotoko bertemu dengan Kurou Sakuragawa, seorang mahasiswa yang memperoleh kemampuan spesial setelah insiden dengan siluman. Kotoko pun meminta Kurou untuk bekerja sama menangani berbagai masalah supernatural.</item>
+        <item>ng tidak terbatas bagi pemainnya. Sekitar dua tahun setelah perilisannya, calon mahasiswa baru, Reiji Mukudori akhirnya dapat membeli game ini dan memainkannya. Dibantu oleh kakaknya yang berpengalaman, Shuu, dan temannya, Embryo, dia memulai petualangan ke dunia Infinite Dendrogram.</item>
+        <item>Anime Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu ini bercerita tentang: Setelah menerima undangan dari temannya Risa Shiromine, Kaede Honjou mulai memainkan game VRMMO New World Online sebagai Maple. Dikarenakan kurangnya pengalaman bermain, dia menggunakan semua poinnya untuk pertahanan. Hingga berakibat gerakannya lambat dan dia tak mampu menggunakan sihir. Akan tetapi, Maple mendapatkan kemampuan yang disebut “Pertahanan Absolut”.</item>
+        <item>Anime Majutsushi Orphen Hagure Tabi ini bercerita tentang: Orphen adalah seorang penyihir yang dahulunya merupakan murid terbaik akademi Menara Fang yang bergengsi. Perjalanannya untuk menyelamatkan Azalie, seorang gadis yang dia anggap seperti saudaranya sendiri telah membawanya pada kunci rahasia dunia.</item>
+        <item>Anime Somali to Mori no Kamisama ini bercerita tentang: Dunia dikuasai oleh roh, goblin, dan makhluk-makhluk aneh lainnya. Manusia mengalami penindasan hingga terancam punah. Suatu hari bertemulah golem penjaga hutan dan seorang gadis kecil. Ini adalah kisah mereka berdua, kisah antara ayah dan anak.</item>
+        <item>Anime Darwin’s Game ini bercerita tentang: Kaname Sudou yang tidak tahu apa-apa diundang untuk mencoba game ponsel misterius yang disebut Darwin’s Game. Setelah mulai memainkannya, dia menyadari dirinya tidak bisa keluar dari permainan tersebut.</item>
+        <item>Anime Rifle Is Beautiful ini bercerita tentang: Kokura Hikari adalah gadis SMA tahun pertama yang suka menembak. Ia masuk ke SMA Chidori karena di sekolah itu memiliki Klub Menembak. Namun, ternyata klub tersebut telah dibubarkan. Ia hanya punya satu hari untuk mencari anggota baru. Beruntung Hikari menemukan tiga gadis yang ia temui di sebuah kompetisi. Kegiatan sehari-hari Klub Menembak pun dimulai.</item>
+        <item>Anime Azur Lane ini bercerita tentang: Anime ini terinspirasi dari gamenya dimana di dalam gamenya pemain akan bertarung melawan musuh menggunakan armada miliknya. Armada pemain terbagi atas 2 jenis, pertama adalah armada vanguard dan armada utama. Armada vanguard bertugas untuk melaksanakan misi yang diberikan, sedangkan armada utama digunakan untuk menyerang dan merusak kapal musuh. Seperti biasanya, para pemain yang menghancurkan musuh akan mendaptkan experience point yang tentunya dapat memperkuat armada mereka. Cara lain yang bisa memperkuat armada adalah membeli item di toko dan meningkatkan skill.</item>
+        <item>Anime Black Clover ini bercerita tentang: Asta adalah seorang anak muda yang mempunyai mimpi menjadi seorang penyihir terhebat di kerajaan. Akan tetapi dia memiliki satu masalah, dia tidak bisa menggunakan sihir. Namun keberuntungan berpihak kepada dia karena mendapatkan Grimoire lima daun yang sangat langka “Black Clover” yang memberinya kekuatan anti-sihir. Walaupun Asta bisa menggunakan sihir, tapi dia tetap bertekad untuk menjadi Kaisar Sihir.</item>
+    </string-array>
+    <string-array name="data_poster">
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_dragon</item>
+        <item>@drawable/poster_dragonball</item>
+        <item>@drawable/poster_preman</item>
+        <item>@drawable/poster_robinhood</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104051-tFMIbiffwBLs.jpg</item>
+        <item>https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107201-yT4iccdpBS1m.jpg</item>
+        <item>https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107420-fTC53wOorIsl.jpg</item>
+        <item>https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106479-JmPk1F5ubMtm.png</item>
+        <item>https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101367-ISegytCr3Azy.jpg</item>
+        <item>https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108617-PgoYLgWzzm0c.png</item>
+        <item>https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105190-No6fB2FQa7CV.jpg</item>
+        <item>https://i1.wp.com/animenewsplus.net/wp-content/uploads/2019/04/Rifle-Is-Beautiful.jpg?fit=707%2C1000&amp;ssl=1</item>
+        <item>https://cdn.myanimelist.net/images/anime/1957/102383l.jpg</item>
+        <item>https://vignette.wikia.nocookie.net/blackclover/images/8/80/Anime_Visual_for_Arc_9.png/revision/latest?cb=20190718141839</item>
+    </string-array>
+</resources>
