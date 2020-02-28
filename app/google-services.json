@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "353639348542",
+    "firebase_url": "https://anime-8d050.firebaseio.com",
+    "project_id": "anime-8d050",
+    "storage_bucket": "anime-8d050.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353639348542:android:561cee9033cb9e308cd46f",
+        "android_client_info": {
+          "package_name": "com.dscunair.rc02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353639348542-8e1bscjr0t7m1p4tjt4jfl31qu0pgv2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-lmDi-xdaG7d0WyjX_OFBP4tQhyrkZws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353639348542-8e1bscjr0t7m1p4tjt4jfl31qu0pgv2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

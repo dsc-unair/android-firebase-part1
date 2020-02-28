@@ -6,9 +6,14 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.Adapter;
 import android.widget.ArrayAdapter;
+import android.widget.ImageButton;
+
+import com.google.firebase.auth.FirebaseAuth;
 
 import java.util.ArrayList;
 
@@ -16,6 +21,10 @@ public class MainActivity extends Activity {
     private ArrayList<modelData>list=new ArrayList<>();
     private RecyclerView recyclerView;
     int[] dataposter;
+
+    private ImageButton signOut;
+    private FirebaseAuth mAuth;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -24,6 +33,19 @@ public class MainActivity extends Activity {
         recyclerView.hasFixedSize();
         list.addAll(getData());
         tampilkanRecyclerView();
+
+        signOut = findViewById(R.id.sign_out);
+        mAuth = FirebaseAuth.getInstance();
+
+        signOut.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                mAuth.signOut();
+                Intent intent = new Intent(MainActivity.this, LoginActivity.class);
+                startActivity(intent);
+                finish();
+            }
+        });
 
     }
 
